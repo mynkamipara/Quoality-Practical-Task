@@ -1,0 +1,17 @@
+{
+    "SOMETHING_WENT_WRONG": "Something went wrong.",
+    "SUCCESS_CREATE": "{{key}} created successfully.",
+    "INVALID_REQUEST": "Invalid Request",
+    "GET_SUCCESS": "{{key}} Info get successfully",
+    "ADDED_SUCCESS": "{{key}} Added successfully",
+    "ALREADY_EXISTS": "{{key}} Already Exists",
+    "NOT_EXISTS": "{{key}} does not exist",
+    "INVALID_CREDENTIALS": "Please Enter Valid Email or Password",
+    "NOT_FOUND": "{{key}} Not Found",
+    "UPDATE_RESOURCE": "{{key}} updated successfully.",
+    "DELETE_RESOURCE": "{{key}} deleted successfully.",
+    "VERIFY_EMAIL": "Please first verify your email",
+    "SUCCESS_LOGIN": "Logged in successfully",
+    "NOT_AUTHORIZE":"You are not authorized to update.",
+    "GET_LIST_SUCCESS": "{{key}} list get successfully"
+}

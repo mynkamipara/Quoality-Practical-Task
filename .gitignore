@@ -1,0 +1,12 @@
+node_modules
+build
+
+package-lock.json
+
+# Environment variables
+.env*
+
+# Editors configs
+.idea
+.vscode
+.DS_Store
